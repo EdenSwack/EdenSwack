@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdenSwack
-- 👀 I’m interested in Blockchain, tokenomics, market psychology, data analytics
+- 👀 I’m interested in Data Science and analysis as well as Blockchain, tokenomics and market psychology
 - 🌱 I’m currently learning Solidity
 
 
