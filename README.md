@@ -11,9 +11,10 @@
 I'm a curious and creative analyst passionate about using data, code, and cloud tools to build smart, useful, and scalable solutions. I enjoy working across the full data stack—from scraping and modeling to visualizing and deploying apps.
 
 🔹 I’m especially enthusiastic about:  
+- 🧠 Creative problem solving with Cloud Technologies and AI
 - 📈 Stock market strategies & using data to optimize investing  
 - 🔗 Blockchain systems & decentralized technologies  
-- 🧠 Creative problem solving with AI, Python, and GCP
+
 
 ---
 
